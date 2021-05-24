@@ -1,13 +1,13 @@
 {
-  "name": "osiset/basic-shopify-api",
+  "name": "studio98/basic-shopify-api",
   "type": "library",
   "description": "A basic Shopify API wrapper with REST and GraphQL support, powered by Guzzle.",
   "keywords": ["api", "shopify", "rest", "graphql"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Tyler King",
-      "email": "tyler@osiset.com"
+      "name": "Studio98",
+      "email": "support@studio98.com"
     }
   ],
   "require": {
