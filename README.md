@@ -49,7 +49,7 @@ It works with both OAuth and private API apps.
 
 The recommended way to install is [through composer](http://packagist.org).
 
-    composer require osiset/basic-shopify-api
+    composer require studdio98/basic-shopify-api
 
 ## Usage
 
