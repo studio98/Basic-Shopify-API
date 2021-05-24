@@ -82,7 +82,7 @@ class Options
             'Accept'       => 'application/json',
             'Content-Type' => 'application/json',
         ],
-        'timeout'                  => 10.0,
+        'timeout'                  => 90.0,
         'max_retry_attempts'       => 2,
         'default_retry_multiplier' => 2.0,
         'retry_on_status'          => [429, 503, 500],
